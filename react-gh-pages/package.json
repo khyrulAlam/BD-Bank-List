@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://khyrulAlam.github.io/BD-Bank-List/react-gh-pages",
+  "homepage": "http://khyrulAlam.github.io/BD-Bank-List",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
