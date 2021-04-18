@@ -42,3 +42,6 @@ Bank list of those who operate their service in Bangladesh
   }
 ]
 ```
+
+
+#### Information credit [wikipedia](https://en.wikipedia.org/wiki/List_of_banks_in_Bangladesh)
